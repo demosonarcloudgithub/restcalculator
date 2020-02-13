@@ -113,10 +113,10 @@
 		<maven.failsafe.plugin.version>2.19.1</maven.failsafe.plugin.version>
 		<mockito.version>2.8.9</mockito.version>
 		<mavencompiler.version>3.6.1</mavencompiler.version>
-		
-		<sonar.projectKey>eidermauricio_restcalculator</sonar.projectKey>
-		<sonar.organization>eidermauricio</sonar.organization>
+
+		<sonar.projectKey>demosonarcloudgithub_restcalculator</sonar.projectKey>
+		<sonar.organization>demosonarcloudgithub</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>594e80b4479b4397cafbc4c6659d000a6d45e109</sonar.login>
+		<sonar.login>e57b6bc0b42dba936c69b86a78487027131eda9d</sonar.login>		
 	</properties>
 </project>
